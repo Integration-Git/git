@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: git
+  annotations:
+    github.com/project-slug: Integration-Git/git
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sdw
